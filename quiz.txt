@@ -1,0 +1,405 @@
+<html>
+    <head>
+        <title>quiz</title>
+    </head>
+    <body>
+
+        <div style="background-image: url('17.jpg');">
+        <br><form name="myform">
+
+            (Q1)<br>
+            <input type="radio" name="q1" value="a">Persuasive/ඒත්තු ගැන්විය හැක</br>
+            <input type="radio" name="q1" value="b">Fearful/තැති ගැන්වෙන සුළුයි</br>
+            <input type="radio" name="q1" value="c">Open-minded/විවෘත මනසක් සහිතයි</br>
+            <input type="radio" name="q1" value="d">Original/සුවිශේෂී</br><br>
+            (Q2)<br>
+            <input type="radio" name="q2" value="a">Cautious/පරිස්සම් සහගතයි</br>
+            <input type="radio" name="q2" value="b">Convincing/විශ්වාසය ඇති කළ හැකි</br>
+            <input type="radio" name="q2" value="c">Aggressive/ප්‍රචණ්ඩකාරී</br>
+            <input type="radio" name="q2" value="d">good natured/යහපත් ගති ඇත</br><br>
+            (Q3)<br>
+            <input type="radio" name="q3" value="a">Docile/කීකරුයි</br>
+            <input type="radio" name="q3" value="b">Dogged/උත්සාහවන්තයි</br>
+            <input type="radio" name="q3" value="c">Open-minded/විවෘත මනසක් සහිතයි</br>
+            <input type="radio" name="q3" value="d">Bold/ධෛර්ය සම්පන්නයි</br><br>
+            (Q4)<br>
+            <input type="radio" name="q4" value="a">Charming/ප්‍රියමනාපයි</br>
+            <input type="radio" name="q4" value="b">Loyal/ඉතා හිතවත්</br>
+            <input type="radio" name="q4" value="c">Determined/අධිෂ්ඨානශීලී</br>
+            <input type="radio" name="q4" value="d">Even-tempered/තරහ යන සුළුය</br><br>
+            (Q5)<br>
+            <input type="radio" name="q5" value="a">Willing/සිය කැමැත්තෙන් කරන</br>
+            <input type="radio" name="q5" value="b">Eager/ඉතා උනන්දුවෙන්</br>
+            <input type="radio" name="q5" value="c">Nervy/කලබලකාරී</br>
+            <input type="radio" name="q5" value="d">Strong-willed/දැඩි අධිෂ්ඨානශීලී</br><br>
+            (Q6)<br>
+            <input type="radio" name="q6" value="a">Agreeable/එකඟ විය හැකි</br>
+            <input type="radio" name="q6" value="b">High-spirited/මහත් උනන්දු ඇති</br>
+            <input type="radio" name="q6" value="c">Confident/විශ්වාසනීය</br>
+            <input type="radio" name="q6" value="d">Even-tempered/තරහ යන සුළුය</br><br>
+            (Q7)<br>
+            <input type="radio" name="q7" value="a">Obliging/කාරුණිකයි</br>
+            <input type="radio" name="q7" value="b">Assertive/ස්ථිර සාරයි</br>
+            <input type="radio" name="q7" value="c">Precise/ඉතා නිවැරදිය</br>
+            <input type="radio" name="q7" value="d">Animated/ප්‍රාණවත්</br><br>
+            (Q8)<br>
+            <input type="radio" name="q8" value="a">Disciplined/විනයගරුකයි</br>
+            <input type="radio" name="q8" value="b">Cheerful/උද්‍යෝගිමත්</br>
+            <input type="radio" name="q8" value="c">Restless/අවිවේකී</br>
+            <input type="radio" name="q8" value="d">Resigned/ඉවසිලිවන්තයි</br><br>
+            (Q9)<br>
+            <input type="radio" name="q9" value="a">Sympathetic/අනුකම්පා සහගතයි</br>
+            <input type="radio" name="q9" value="b">Persistent/යමක් අඛණ්ඩව සිදු කරයි</br>
+            <input type="radio" name="q9" value="c">Obedient/කීකරුයි</br>
+            <input type="radio" name="q9" value="d">Spontaneous/සිය කැමැත්තෙන් සිදු කරයි</br><br>
+            (Q10)<br>
+            <input type="radio" name="q10" value="a">Competitive/තරගකාරී</br>
+            <input type="radio" name="q10" value="b">Tolerant/ඉවසිලිවන්තයි</br>
+            <input type="radio" name="q10" value="c">Fussy/කලබලකාරී</br>
+            <input type="radio" name="q10" value="d">Pioneering/මග පෙන්වනු ලබයි</br><br>
+            (Q11)<br>
+            <input type="radio" name="q11" value="a">Respectful/ගරු කරයි</br>
+            <input type="radio" name="q11" value="b">Jovial/විනෝදකාමී</br>
+            <input type="radio" name="q11" value="c">Influential/බලපෑම් කළ හැක</br>
+            <input type="radio" name="q11" value="d">Optimistic/සුබවාදී</br><br>
+            (Q12)<br>
+            <input type="radio" name="q12" value="a">Generous/ත්‍යාගශීලී</br>
+            <input type="radio" name="q12" value="b">Unconquerable/අපරාජිතයි</br>
+            <input type="radio" name="q12" value="c">Inspiring/සිතට දැන විය හැක</br>
+            <input type="radio" name="q12" value="d">Submissive/අවනතයි</br><br>
+            (Q13)<br>
+            <input type="radio" name="q13" value="a">Considerate/ආචාරශීලී</br>
+            <input type="radio" name="q13" value="b">Brave/නිර්භීතයි</br>
+            <input type="radio" name="q13" value="c">Timid/බියගුළු</br>
+            <input type="radio" name="q13" value="d">Adaptable/අනුවර්තනය විය හැක</br><br>
+            (Q14)<br>
+            <input type="radio" name="q14" value="a">Argumentative/වාදයට බරයි</br>
+            <input type="radio" name="q14" value="b">Kind/කාරුණිකයි</br>
+            <input type="radio" name="q14" value="c">Nonchalant/උදාසීනයි</br>
+            <input type="radio" name="q14" value="d">Patient/ඉවසිලිවන්තයි</br><br>
+            (Q15)<br>
+            <input type="radio" name="q15" value="a">Self-reliant/ආත්ම විශ්වාසය සහිතයි</br>
+            <input type="radio" name="q15" value="b">Light hearted/සැහැල්ලුවෙන් යුක්තයි</br>
+            <input type="radio" name="q15" value="c">Soft Spoken/මෘදු වදනින් කතාකරයි</br>
+            <input type="radio" name="q15" value="d">Trusting/විශ්වාසයෙන් යුක්තයි</br><br>
+            (Q16)<br>
+            <input type="radio" name="q16" value="a">Adventurous/නිර්භීතයි</br>
+            <input type="radio" name="q16" value="b">Peaceful/සාමකාමී</br>
+            <input type="radio" name="q16" value="c">Positive/ධනාත්මක</br>
+            <input type="radio" name="q16" value="d">Moderate/මධ්‍යස්ථයි</br><br>
+            (Q17)<br>
+            <input type="radio" name="q17" value="a">Cordial/මිත්‍රශීලී</br>
+            <input type="radio" name="q17" value="b">Vigorous/ශක්ති සම්පන්නයි</br>
+            <input type="radio" name="q17" value="c">Receptive/ඉක්මනින් වටහා ගනියි</br>
+            <input type="radio" name="q17" value="d">Controlled/පාලනය කළ හැක</br><br>
+            (Q18)<br>
+            <input type="radio" name="q18" value="a">Accurate/නිවැරදි</br>
+            <input type="radio" name="q18" value="b">Good Mixer/මනා සම්මිශ්‍රණයකින් යුක්තයි</br>
+            <input type="radio" name="q18" value="c">Decisive/තීරණ ගත හැකියි</br>
+            <input type="radio" name="q18" value="d">Lenient/මෘදු බවින් යුක්තයි</br><br>
+            (Q19)<br>
+            <input type="radio" name="q19" value="a">Talkative/කටකාරයි</br>
+            <input type="radio" name="q19" value="b">Conventional/ගතානුගතිකයි</br>
+            <input type="radio" name="q19" value="c">Outspoken/කෙලින් කතා කරයි</br>
+            <input type="radio" name="q19" value="d">Satisfied/තෘප්තිමත් වෙයි</br><br>
+            (Q20)<br>
+            <input type="radio" name="q20" value="a">Audacious/ගරුසරු නොදක්වයි</br>
+            <input type="radio" name="q20" value="b">Popular/ජනප්‍රිය</br>
+            <input type="radio" name="q20" value="c">Companionable/සමාජශීලී</br>
+            <input type="radio" name="q20" value="d">Polished/ආටෝපයෙන් යුක්තයි</br><br>
+
+        <input type="button" value="Submit" onclick="check()">
+        </form>
+    </div>
+        <script>
+            function check(){
+
+                var q1=document.myform.q1.value;
+                var q2=document.myform.q2.value;
+                var q3=document.myform.q3.value;
+                var q4=document.myform.q4.value;
+                var q5=document.myform.q5.value;
+                var q6=document.myform.q6.value;
+                var q7=document.myform.q7.value;
+                var q8=document.myform.q8.value;
+                var q9=document.myform.q9.value;
+                var q10=document.myform.q10.value;
+                var q11=document.myform.q11.value;
+                var q12=document.myform.q12.value;
+                var q13=document.myform.q13.value;
+                var q14=document.myform.q14.value;
+                var q15=document.myform.q15.value;
+                var q16=document.myform.q16.value;
+                var q17=document.myform.q17.value;
+                var q18=document.myform.q18.value;
+                var q19=document.myform.q19.value;
+                var q20=document.myform.q20.value;
+                
+                var count=0;
+
+                if(q1=="a"){
+                    count=count+40;
+                }
+                if(q1=="b"){
+                    count=count+20;
+                }
+                if(q1=="c"){
+                    count=count+10;
+                }
+                if(q1=="d"){
+                    count=count+30;
+                }
+                
+                if(q2=="a"){
+                    count=count+10;
+                }
+                if(q2=="b"){
+                    count=count+30;
+                }
+                if(q2=="c"){
+                    count=count+40;
+                }
+                if(q2=="d"){
+                    count=count+20;
+                }
+
+                if(q3=="a"){
+                    count=count+20;
+                }
+                if(q3=="b"){
+                    count=count+40;
+                }
+                if(q3=="c"){
+                    count=count+10;
+                }
+                if(q3=="d"){
+                    count=count+30;
+                }
+
+                if(q4=="a"){
+                    count=count+30;
+                }
+                if(q4=="b"){
+                    count=count+20;
+                }
+                if(q4=="c"){
+                    count=count+40;
+                }
+                if(q4=="d"){
+                    count=count+10;
+                }
+
+                if(q5=="a"){
+                    count=count+20;
+                }
+                if(q5=="b"){
+                    count=count+30;
+                }
+                if(q5=="c"){
+                    count=count+10;
+                }
+                if(q5=="d"){
+                    count=count+40;
+                }
+
+                if(q6=="a"){
+                    count=count+20;
+                }
+                if(q6=="b"){
+                    count=count+30;
+                }
+                if(q6=="c"){
+                    count=count+40;
+                }
+                if(q6=="d"){
+                    count=count+10;
+                }
+
+                if(q7=="a"){
+                    count=count+20;
+                }
+                if(q7=="b"){
+                    count=count+40;
+                }
+                if(q7=="c"){
+                    count=count+10;
+                }
+                if(q7=="d"){
+                    count=count+30;
+                }
+
+                if(q8=="a"){
+                    count=count+40;
+                }
+                if(q8=="b"){
+                    count=count+20;
+                }
+                if(q8=="c"){
+                    count=count+30;
+                }
+                if(q8=="d"){
+                    count=count+10;
+                }
+
+                if(q9=="a"){
+                    count=count+20;
+                }
+                if(q9=="b"){
+                    count=count+40;
+                }
+                if(q9=="c"){
+                    count=count+10;
+                }
+                if(q9=="d"){
+                    count=count+30;
+                }
+
+                if(q10=="a"){
+                    count=count+40;
+                }
+                if(q10=="b"){
+                    count=count+20;
+                }
+                if(q10=="c"){
+                    count=count+10;
+                }
+                if(q10=="d"){
+                    count=count+30;
+                }
+
+                if(q11=="a"){
+                    count=count+10;
+                }
+                if(q11=="b"){
+                    count=count+20;
+                }
+                if(q11=="c"){
+                    count=count+30;
+                }
+                if(q11=="d"){
+                    count=count+40;
+                }
+
+                if(q12=="a"){
+                    count=count+20;
+                }
+                if(q12=="b"){
+                    count=count+40;
+                }
+                if(q12=="c"){
+                    count=count+30;
+                }
+                if(q12=="d"){
+                    count=count+10;
+                }
+
+                if(q13=="a"){
+                    count=count+20;
+                }
+                if(q13=="b"){
+                    count=count+40;
+                }
+                if(q13=="c"){
+                    count=count+10;
+                }
+                if(q13=="d"){
+                    count=count+30;
+                }
+
+                if(q14=="a"){
+                    count=count+40;
+                }
+                if(q14=="b"){
+                    count=count+20;
+                }
+                if(q14=="c"){
+                    count=count+30;
+                }
+                if(q14=="d"){
+                    count=count+10;
+                }
+
+                if(q15=="a"){
+                    count=count+40;
+                }
+                if(q15=="b"){
+                    count=count+20;
+                }
+                if(q15=="c"){
+                    count=count+30;
+                }
+                if(q15=="d"){
+                    count=count+10;
+                }
+
+                if(q16=="a"){
+                    count=count+40;
+                }
+                if(q16=="b"){
+                    count=count+20;
+                }
+                if(q16=="c"){
+                    count=count+30;
+                }
+                if(q16=="d"){
+                    count=count+10;
+                }
+
+                if(q17=="a"){
+                    count=count+30;
+                }
+                if(q17=="b"){
+                    count=count+40;
+                }
+                if(q17=="c"){
+                    count=count+20;
+                }
+                if(q17=="d"){
+                    count=count+10;
+                }
+
+                if(q18=="a"){
+                    count=count+10;
+                }
+                if(q18=="b"){
+                    count=count+30;
+                }
+                if(q18=="c"){
+                    count=count+40;
+                }
+                if(q18=="d"){
+                    count=count+20;
+                }
+
+                if(q19=="a"){
+                    count=count+30;
+                }
+                if(q19=="b"){
+                    count=count+10;
+                }
+                if(q19=="c"){
+                    count=count+40;
+                }
+                if(q19=="d"){
+                    count=count+20;
+                }
+
+                if(q20=="a"){
+                    count=count+40;
+                }
+                if(q20=="b"){
+                    count=count+20;
+                }
+                if(q20=="c"){
+                    count=count+30;
+                }
+                if(q20=="d"){
+                    count=count+10;
+                }
+
+                alert("You got "+count+" marks");
+                alert("ANALYTICAL: Low Responsiveness, Low Assertiveness Analytical people can appear unsociable, especially to Amiables and Expressives. They may seem serious and indecisive. This is because they need to look at every conceivable angle before they feel satisfied. A consequence of this is that they are persistent in their questioning and focus on detail and facts. However, once they have made a decision, they stick with it as they invariably feel that it is infallible. In conflict, they can 'whine', become sarcastic and are often perceived as negative.\nSUMMARY: Characteristics: Serious, mull matters over. Can seem indecisive. Persistent, asks lots of questions. Known for heightened attention to detail. When in conflict: Can resort to whining, sarcastic, negative comments lution to help: Keep to the facts. Simply agree with them, listen attentively\nNeed: To be correct\n\nවිශ්ලේෂණය: අඩු ප්‍රතිචාර දැක්වීම, අඩු සහතික කිරීම විශ්ලේෂණාත්මක පුද්ගලයින්ට විශේෂයෙන් විනෝදකාමී සහ ප්‍රකාශන සඳහා අනාරක්‍ෂිත බව පෙනේ. ඒවා බැරෑරුම් හා අවිනිශ්චිත බවක් පෙනෙන්නට තිබේ. මෙයට හේතුව ඔවුන් සෑහීමකට පත්වීමට පෙර සිතිය හැකි සෑම කෝණයක්ම සොයා බැලිය යුතු බැවිනි. මෙහි ප්‍රතිඵලයක් වනුයේ ඔවුන් ප්‍රශ්න කිරීමේදී නොපසුබටව සිටීම හා විස්තර සහ කරුණු කෙරෙහි අවධානය යොමු කිරීමයි. කෙසේ වෙතත්, ඔවුන් තීරණයක් ගත් පසු, එය නොවරදිනසුලු යැයි ඔවුන්ට නිරන්තරයෙන් හැඟෙන බැවින් ඔවුන් එයට ඇලී සිටිති. ගැටුමේදී, ඔවුන්ට 'හඬනඟා', උපහාසාත්මක විය හැකි අතර බොහෝ විට ඒවා අසුබවාදී ලෙස පෙනේ.\nසාරාංශය: ලක්ෂණ: බැරෑරුම්, ශෝචනීය කාරණා අවසන්. අවිනිශ්චිත බවක් පෙනේ. නොපසුබටව, බොහෝ ප්‍රශ්න අසයි. සවිස්තරාත්මකව අවධානය යොමු කිරීම සඳහා ප්‍රසිද්ධයි. ගැටුමකදී: උපකාර කිරීම සඳහා විහිළු කිරීම, උපහාසාත්මක, නිෂේධාත්මක අදහස් දැක්වීම් වෙත යොමු විය හැකිය: කරුණු වෙත යොමු වන්න. ඔවුන් සමඟ සරලව එකඟ වන්න, හොඳින් සවන් දෙන්න\nඅවශ්‍යතාවය: නිවැරදි වීමට");
+            }
+        </script>
+    </body>
+</html>
